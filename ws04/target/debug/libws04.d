@@ -1,0 +1,1 @@
+/Users/wenditang/Desktop/rust/ws04/target/debug/libws04.rlib: /Users/wenditang/Desktop/rust/ws04/src/coordinate.rs /Users/wenditang/Desktop/rust/ws04/src/direction.rs /Users/wenditang/Desktop/rust/ws04/src/lib.rs
